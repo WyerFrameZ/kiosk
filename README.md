@@ -1,4 +1,4 @@
-# Rozszeżenie kiosk do głownej apliakcji
+# Rozszeżenie kiosk do EduMotiv
 
 System do obsługi kart RFID, umożliwiający automatyczną rejestrację użytkowników i odczyt danych z głownej bazy dnaych.
 ## Tech stack
@@ -28,7 +28,7 @@ System składa się z trzech głównych komponentów:
 ## Wymagania
 
 - Python 3.7 lub nowszy
-- Arduino z czytnikiem RFID
+- Jakikolwiek mikrokontroloer AVR z czytnikiem RFID
 - Przeglądarka internetowa
 - Serwer MariaDB/MySQL
 - Biblioteki Python: flask, flask-cors, pymysql, serial
