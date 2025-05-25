@@ -1,6 +1,8 @@
-# System RFID
+# Rozszeżenie kiosk do głownej apliakcji
 
-System do obsługi kart RFID, umożliwiający automatyczną rejestrację użytkowników i odczyt danych.
+System do obsługi kart RFID, umożliwiający automatyczną rejestrację użytkowników i odczyt danych z głownej bazy dnaych.
+## Tech stack
+
 
 ## Opis systemu
 
