@@ -2,7 +2,13 @@
 
 System do obsługi kart RFID, umożliwiający automatyczną rejestrację użytkowników i odczyt danych z głownej bazy dnaych.
 ## Tech stack
-
+<p align="center">
+  <img src="img/html.svg" width="100" style="display:inline-block" />
+  <img src="img/css.svg" width="100" style="display:inline-block" />
+  <img src="img/nodejs.svg" width="100" style="display:inline-block" />
+  <img src="img/python.svg" width="100" style="display:inline-block" />
+  <img src="img/cpp.svg" width="100" style="display:inline-block" />
+</p>
 
 ## Opis systemu
 
