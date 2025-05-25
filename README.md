@@ -98,21 +98,17 @@ python rfid_simple.py
 
 ## Rozwiązywanie problemów
 
-### Nie mogę połączyć się z Arduino
+### Nie mogę połączyć się z mikrokontrolerem
 - Sprawdź połączenie USB
-- Upewnij się, że zainstalowane są sterowniki dla Arduino
+- Upewnij sie, że masz sterownik do układu ch340 usb to ttl
 
 ### Błąd połączenia z bazą danych
 - Sprawdź poprawność danych w pliku dot.env
 - Upewnij się, że serwer bazy danych jest uruchomiony
-- Sprawdź, czy firewall nie blokuje połączenia
-
-### Komunikat "Nieznana karta"
-- To normalne zachowanie przy skanowaniu karty, której nie ma w bazie danych
-- Wypełnij formularz rejestracji, aby dodać kartę do systemu
+- Sprawdź, czy firewall nie blokuje połączenia 
 
 ## Informacje techniczne
 
 - Odświeżanie danych: co 5 sekund
-- Port API: 5000
-- API jest dostępne pod adresem http://[adres-ip]:5000/api/last-card
+- Port API: 5000 (web)
+- API jest dostępne pod adresem http://[adres-ip]:5000/api/last-card (adres jest bran yz głownej karty sieciowej)
